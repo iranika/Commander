@@ -7,9 +7,6 @@ license       = "MIT"
 srcDir        = "src"
 bin           = @["Commander"]
 
-
-
 # Dependencies
-
 requires "nim >= 0.20.0"
 requires "jester"
